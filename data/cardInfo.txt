@@ -1,0 +1,58 @@
+00,Red +2
+01,Red 1
+02,Red 2
+03,Red 3
+04,Red 4
+05,Red 5
+06,Red 6
+07,Red 7
+08,Red 8
+09,Red 9
+10,Blue +2
+11,Blue 1
+12,Blue 2
+13,Blue 3
+14,Blue 4
+15,Blue 5
+16,Blue 6
+17,Blue 7
+18,Blue 8
+19,Blue 9
+20,Yellow +2
+21,Yellow 1
+22,Yellow 2
+23,Yellow 3
+24,Yellow 4
+25,Yellow 5
+26,Yellow 6
+27,Yellow 7
+28,Yellow 8
+29,Yellow 9
+30,Green +2
+31,Green 1
+32,Green 2
+33,Green 3
+34,Green 4
+35,Green 5
+36,Green 6
+37,Green 7
+38,Green 8
+39,Green 9
+40,Red Skip
+41,Blue Skip
+42,Yellow Skip
+43,Green Skip
+50,Red Reverse
+51,Blue Reverse
+52,Yellow Reverse
+53,Green Reverse
+60,Color Change
+61,Color Change +4
+70,Red Color Change
+71,Blue Color Change
+72,Yellow Color Change
+73,Green Color Change
+80,Red Color Change +4
+81,Blue Color Change +4
+82,Yellow Color Change +4
+83,Green Color Change +4
