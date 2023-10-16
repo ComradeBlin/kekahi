@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class GamemodeTwo extends CardClass {
-    //Global Scanners
+    // intiating global scanners
     public static Scanner numScan = new Scanner(System.in);
     public static Scanner wordScan = new Scanner(System.in);
 
